@@ -14,7 +14,7 @@
             layers = <2>;
         };
     };
-　　behaviors {
+    behaviors {
         hrm: home_row_mods {
             compatible = "zmk,behavior-hold-tap";
             label = "HRM";
